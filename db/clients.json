@@ -1,0 +1,227 @@
+[
+  {
+    "contract": "VL/2055",
+    "name": "ФОП Бондаренко О.М. (Кав'ярня 'Aroma')",
+    "phone": "067-123-45-67",
+    "contact_field": "вул. Соборна 50, м. Вінниця",
+    "is_vip": true,
+    "services": [
+      {
+        "type": "PPPoE",
+        "address": "вул. Соборна 50 (зал)",
+        "info": "Login: aroma_wifi"
+      },
+      {
+        "type": "IPTV",
+        "address": "вул. Соборна 50 (бар)",
+        "info": "Login: aroma_tv_bar"
+      }
+    ]
+  },
+  {
+    "contract": "VL/1007",
+    "name": "Комунальний заклад 'Вінницький ліцей №7'",
+    "phone": "0432-66-11-22, 097-000-11-22",
+    "contact_field": "вул. Келецька 100, м. Вінниця",
+    "services": [
+      {
+        "type": "PPPoE",
+        "address": "вул. Келецька 100 (серверна)",
+        "info": "Login: licey7_main"
+      },
+      {
+        "type": "PPPoE",
+        "address": "вул. Келецька 100 (каб. директора)",
+        "info": "Login: licey7_dir"
+      },
+      {
+        "type": "PPPoE",
+        "address": "вул. Келецька 100 (охорона)",
+        "info": "Login: licey7_guard"
+      }
+    ]
+  },
+  {
+    "contract": "VL/0888",
+    "name": "ТОВ 'Вінницький Агрегатний Завод'",
+    "phone": "0432-55-44-33, 067-555-44-33",
+    "contact_field": "вул. Гонти 2, прохідна",
+    "is_vip": true,
+    "services": [
+      {
+        "type": "PPPoE_IPTV",
+        "address": "вул. Гонти 2 (Головний офіс)",
+        "info": "Login: vaz_corp_fiber"
+      },
+      {
+        "type": "PPPoE",
+        "address": "вул. Гонти 2 (Склад №1)",
+        "info": "Login: vaz_sklad"
+      }
+    ]
+  },
+  {
+    "contract": "VL/0101",
+    "name": "Мельник Андрій Вікторович",
+    "phone": "093-555-00-99",
+    "contact_field": "вул. Зодчих 12, кв. 45",
+    "services": [
+      {
+        "type": "PPPoE_IPTV",
+        "address": "вул. Зодчих 12, кв. 45",
+        "info": "Login: melnyk_a"
+      }
+    ]
+  },
+  {
+    "contract": "VL/0305",
+    "name": "Ковальчук Ірина Сергіївна",
+    "phone": "050-999-88-77",
+    "contact_field": "вул. Пирогова 155, приватний будинок",
+    "services": [
+      {
+        "type": "PPPoE",
+        "address": "вул. Пирогова 155",
+        "info": "Login: kovalchuk_i"
+      }
+    ]
+  },
+  {
+    "contract": "VL/4001",
+    "name": "ТЦ 'SkyPark' (Адміністрація)",
+    "phone": "0432-50-50-50, 063-111-22-33",
+    "contact_field": "вул. Соборна 24, м. Вінниця",
+    "is_vip": true,
+    "services": [
+      {
+        "type": "PPPoE",
+        "address": "вул. Соборна 24 (офіс 305)",
+        "info": "Login: skypark_admin"
+      },
+      {
+        "type": "IPTV",
+        "address": "вул. Соборна 24 (ресепшн)",
+        "info": "Login: skypark_tv"
+      }
+    ]
+  },
+  {
+    "contract": "VL/1020",
+    "name": "Гончарук Петро Іванович",
+    "phone": "098-777-66-55",
+    "contact_field": "вул. Київська 14, кв. 8",
+    "services": [
+      {
+        "type": "PPPoE",
+        "address": "вул. Київська 14, кв. 8",
+        "info": "Login: goncharuk_p"
+      }
+    ]
+  },
+  {
+    "contract": "VL/5050",
+    "name": "Ресторан 'Mont Blanc'",
+    "phone": "067-888-99-00, 0432-60-60-60",
+    "contact_field": "вул. Соборна 34",
+    "is_vip": true,
+    "services": [
+      {
+        "type": "PPPoE_IPTV",
+        "address": "вул. Соборна 34",
+        "info": "Login: mont_blanc_vip"
+      }
+    ]
+  },
+  {
+    "contract": "VL/1033",
+    "name": "Бойко Сергій Васильович",
+    "phone": "063-222-33-44",
+    "contact_field": "пр-т Юності 20, кв. 115",
+    "services": [
+      {
+        "type": "PPPoE_IPTV",
+        "address": "пр-т Юності 20, кв. 115",
+        "info": "Login: boyko_s"
+      }
+    ]
+  },
+  {
+    "contract": "VL/1045",
+    "name": "Лисенко Марина Володимирівна",
+    "phone": "096-111-00-00",
+    "contact_field": "вул. 600-річчя 50, кв. 12",
+    "services": [
+      {
+        "type": "IPTV",
+        "address": "вул. 600-річчя 50, кв. 12",
+        "info": "Login: lysenko_tv"
+      }
+    ]
+  },
+  {
+    "contract": "VL/6000",
+    "name": "ПАТ 'Вінницяобленерго' (Диспетчерська)",
+    "phone": "0432-65-95-95, 0800-217-217",
+    "contact_field": "вул. Магістратська 2",
+    "is_vip": true,
+    "services": [
+      {
+        "type": "PPPoE",
+        "address": "вул. Магістратська 2",
+        "info": "Login: oblenergo_res"
+      }
+    ]
+  },
+  {
+    "contract": "VL/1099",
+    "name": "Кравчук Ігор Степанович",
+    "phone": "050-123-12-12",
+    "contact_field": "вул. Стрілецька 1, кв. 55",
+    "services": [
+      {
+        "type": "PPPoE",
+        "address": "вул. Стрілецька 1, кв. 55",
+        "info": "Login: kravchuk_i"
+      }
+    ]
+  },
+  {
+    "contract": "VL/7001",
+    "name": "Аптека 'Подорожник'",
+    "phone": "093-000-03-03",
+    "contact_field": "вул. Пирогова 10",
+    "services": [
+      {
+        "type": "PPPoE",
+        "address": "вул. Пирогова 10",
+        "info": "Login: podorozhnyk_vpn"
+      }
+    ]
+  },
+  {
+    "contract": "VL/1150",
+    "name": "Савченко Олена Петрівна",
+    "phone": "068-456-78-90",
+    "contact_field": "вул. Замостянська 30, кв. 5",
+    "services": [
+      {
+        "type": "PPPoE_IPTV",
+        "address": "вул. Замостянська 30, кв. 5",
+        "info": "Login: savchenko_o"
+      }
+    ]
+  },
+  {
+    "contract": "VL/8800",
+    "name": "Автомийка 'Lux'",
+    "phone": "097-777-11-22",
+    "contact_field": "вул. Данила Нечая 5",
+    "services": [
+      {
+        "type": "IPTV",
+        "address": "вул. Данила Нечая 5 (кімната очікування)",
+        "info": "Login: lux_wash_tv"
+      }
+    ]
+  }
+]

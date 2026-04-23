@@ -1,0 +1,289 @@
+[
+    {
+        "id": 50001,
+        "contract_id": "VL\/1007",
+        "name": "Комунальний заклад 'Вінницький ліцей №7'",
+        "time": 1672560000,
+        "status": "closed",
+        "issue_type": "inet_down",
+        "priority": 5,
+        "desc": "Немає зв'язку. Індикатори на роутері не світяться.",
+        "department": "support",
+        "deadline": 24,
+        "comments": [
+            {
+                "dept": "support",
+                "time": 1672570800,
+                "text": "Виїзд майстра. Виявлено обрив кабелю в під'їзді. Лінію відновлено. Сигнал -21dBm."
+            }
+        ]
+    },
+    {
+        "id": 50002,
+        "contract_id": "VL\/2055",
+        "name": "ФОП Бондаренко О.М. (Кав'ярня 'Aroma')",
+        "time": 1675152000,
+        "status": "closed",
+        "issue_type": "iptv_bad",
+        "priority": 3,
+        "desc": "Картинка на телевізорі розсипається на квадратики.",
+        "department": "expl_iptv",
+        "deadline": 48,
+        "comments": [
+            {
+                "dept": "expl_iptv",
+                "time": 1675160000,
+                "text": "Проблема була в HDMI кабелі клієнта. Замінили патч-корд до приставки. Все ок."
+            }
+        ]
+    },
+    {
+        "id": 50003,
+        "contract_id": "VL\/0888",
+        "name": "ТОВ 'Вінницький Агрегатний Завод'",
+        "time": 1678000000,
+        "status": "closed",
+        "issue_type": "link",
+        "priority": 5,
+        "desc": "Впав оптичний лінк на головному офісі заводу.",
+        "department": "noc",
+        "deadline": 4,
+        "comments": [
+            {
+                "dept": "noc",
+                "time": 1678010000,
+                "text": "Аварія на магістралі. Зварено муфту біля прохідної."
+            }
+        ]
+    },
+    {
+        "id": 50004,
+        "contract_id": "VL\/1099",
+        "name": "Кравчук Ігор Степанович",
+        "time": 1680500000,
+        "status": "closed",
+        "issue_type": "inet_slow",
+        "priority": 3,
+        "desc": "Дуже низька швидкість по Wi-Fi ввечері.",
+        "department": "support",
+        "deadline": 24,
+        "comments": [
+            {
+                "dept": "support",
+                "time": 1680505000,
+                "text": "Переналаштовано канал Wi-Fi на роутері на менш завантажений. Швидкість піднялась до 50 Мбіт."
+            }
+        ]
+    },
+    {
+        "id": 50005,
+        "contract_id": "VL\/4001",
+        "name": "ТЦ 'SkyPark' (Адміністрація)",
+        "time": 1690000000,
+        "status": "closed",
+        "issue_type": "phone_down",
+        "priority": 4,
+        "desc": "Не працює SIP телефонія на рецепції (тиша в слухавці).",
+        "department": "expl_inet",
+        "deadline": 24,
+        "comments": [
+            {
+                "dept": "expl_inet",
+                "time": 1690010000,
+                "text": "Перезавантажено VoIP шлюз. Телефонія піднялась."
+            }
+        ]
+    },
+    {
+        "id": 50006,
+        "contract_id": "VL\/7001",
+        "name": "Аптека 'Подорожник'",
+        "time": 1700000000,
+        "status": "closed",
+        "issue_type": "inet_flapping",
+        "priority": 4,
+        "desc": "Інтернет зникає кожні 10-15 хвилин.",
+        "department": "support",
+        "deadline": 24,
+        "comments": [
+            {
+                "dept": "support",
+                "time": 1700050000,
+                "text": "Замінено конектор RJ-45 з боку клієнта (був поганий контакт)."
+            }
+        ]
+    },
+    {
+        "id": 50007,
+        "contract_id": "VL\/6000",
+        "name": "ПАТ 'Вінницяобленерго' (Диспетчерська)",
+        "time": 1705000000,
+        "status": "closed",
+        "issue_type": "inet_mail",
+        "priority": 3,
+        "desc": "Не відправляється пошта через Outlook.",
+        "department": "support",
+        "deadline": 48,
+        "comments": [
+            {
+                "dept": "support",
+                "time": 1705060000,
+                "text": "Допомогли налаштувати SMTP сервер провайдера у клієнті."
+            }
+        ]
+    },
+    {
+        "id": 50008,
+        "contract_id": "VL\/5050",
+        "name": "Ресторан 'Mont Blanc'",
+        "time": 1735030000,
+        "status": "in_progress",
+        "issue_type": "iptv_down",
+        "priority": 5,
+        "desc": "Чорний екран на телевізорі в VIP залі. Гості скаржаться.",
+        "department": "expl_iptv",
+        "deadline": 4,
+        "comments": [
+            {
+                "dept": "expl_iptv",
+                "time": 1735035000,
+                "text": "Бачу помилки на порту свіча. Бригада виїхала на місце."
+            }
+        ]
+    },
+    {
+        "id": 50009,
+        "contract_id": "VL\/0305",
+        "name": "Ковальчук Ірина Сергіївна",
+        "time": 1735045000,
+        "status": "in_progress",
+        "issue_type": "inet_down",
+        "priority": 5,
+        "desc": "Не працює інтернет, на пристрої ONU світиться червона лампочка LOS.",
+        "department": "expl_inet",
+        "deadline": 24,
+        "comments": [
+            {
+                "dept": "expl_inet",
+                "time": 1735046000,
+                "text": "Ймовірно обрив оптики на лінії. Передав монтажникам."
+            }
+        ]
+    },
+    {
+        "id": 50010,
+        "contract_id": "VL\/8800",
+        "name": "Автомийка 'Lux'",
+        "time": 1735110000,
+        "status": "new",
+        "issue_type": "other",
+        "priority": 2,
+        "desc": "Потрібно перенести кабель інтернету в іншу кімнату (ремонт).",
+        "department": "support",
+        "deadline": 72,
+        "comments": []
+    },
+    {
+        "id": 50011,
+        "contract_id": "VL\/1020",
+        "name": "Гончарук Петро Іванович",
+        "time": 1735115000,
+        "status": "new",
+        "issue_type": "inet_slow",
+        "priority": 3,
+        "desc": "Ввечері швидкість падає до 10 Мбіт, тариф 100.",
+        "department": "support",
+        "deadline": 48,
+        "comments": []
+    },
+    {
+        "id": 50012,
+        "contract_id": "VL\/1045",
+        "name": "Лисенко Марина Володимирівна",
+        "time": 1735119000,
+        "status": "new",
+        "issue_type": "iptv_bad",
+        "priority": 3,
+        "desc": "Зависає звук на каналі 1+1, картинка йде нормально.",
+        "department": "expl_iptv",
+        "deadline": 48,
+        "comments": []
+    },
+    {
+        "id": 50013,
+        "contract_id": "VL\/1033",
+        "name": "Бойко Сергій Васильович",
+        "contact": "пр-т Юності 20, кв. 115",
+        "issue_type": "inet_down",
+        "desc": "роутер не світиться взагалі",
+        "department": "expl_inet",
+        "deadline": "24",
+        "comments": [
+            {
+                "dept": "expl_inet",
+                "time": 1765827987,
+                "text": "Чувак забув включити роутер...."
+            },
+            {
+                "dept": "noc",
+                "time": 1765828087,
+                "text": "Ми не поїдемо включати роутер..."
+            }
+        ],
+        "status": "new",
+        "time": 1765827375,
+        "comment": "Ми не поїдемо включати роутер..."
+    },
+    {
+        "id": 50014,
+        "contract_id": "VL\/1045",
+        "name": "Лисенко Марина Володимирівна",
+        "contact": "вул. 600-річчя 50, кв. 12",
+        "issue_type": "inet_down",
+        "desc": "не світиться роутер",
+        "department": "expl_inet",
+        "deadline": "24",
+        "comments": [],
+        "status": "new",
+        "time": 1765827583
+    },
+    {
+        "id": 50015,
+        "contract_id": "VL\/8800",
+        "name": "Автомийка 'Lux'",
+        "contact": "вул. Данила Нечая 5",
+        "issue_type": "inet_mail",
+        "desc": "Не працює сайт приват банку",
+        "department": "expl_inet",
+        "deadline": "24",
+        "comments": [],
+        "status": "new",
+        "time": 1766047631
+    },
+    {
+        "id": 50016,
+        "contract_id": "VL\/1007",
+        "name": "Комунальний заклад 'Вінницький ліцей №7'",
+        "contact": "вул. Келецька 100, м. Вінниця",
+        "issue_type": "inet_down",
+        "desc": "паламав кабель",
+        "department": "expl_inet",
+        "deadline": "24",
+        "comments": [],
+        "status": "new",
+        "time": 1774899464
+    },
+    {
+        "id": 50017,
+        "contract_id": "VL\/1045",
+        "name": "Лисенко Марина Володимирівна",
+        "contact": "вул. 600-річчя 50, кв. 12",
+        "issue_type": "inet_down",
+        "desc": "апівіваіаіа",
+        "department": "expl_iptv",
+        "deadline": "24",
+        "comments": [],
+        "status": "new",
+        "time": 1774901286
+    }
+]
